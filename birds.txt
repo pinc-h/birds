@@ -89,4 +89,9 @@ This is my life list
 87, Common Redstart, Bar, June 2025
 88, Common Swift, Milan, June 2025, POBH index 23
 89, Common Chaffinch, Milan, June 2025
-90, Swainsons Thrush, Deep Bay, July 6 2025, PBOH index 24
+90, Swainsons Thrush, Deep Bay, July 6 2025, POBH index 24
+91, Northern House Wren, Leith, July 22 2025
+92, Eastern Pewee, Leith, July 22 2025
+93, Double crested Cormorant, Lakeshore Leith, July 23 2025
+94, American Goldfinch, Leith, July 27 2025
+95, American Kestrel, Leith, July 27 2025
